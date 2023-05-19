@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+}
+
+
+form{
+    margin-top: 10%;
+background-position:center ; 
+float: bottom;
+
+
+
+}
+form label{
+    color:aliceblue;
+font-size:larger;
+margin-left: 47%;
+
+}
+form input {
+height: 30%;
+width: 20%;
+margin-left: 40%;
+}
+form h2{
+    color:white;
+font-size:x-large;
+margin-left: 47%;
+}
+
+form button{
+    color: white;
+font-size:larger;
+margin-left:43%;
+width:15%;
+background-color: rgb(46, 206, 235);
+border: none;
+padding: 2px;
+}
